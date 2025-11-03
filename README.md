@@ -1,9 +1,13 @@
 ## NeoGraphAI
 
+<p align="center">
+    <img src="image-2.png" alt="Alt text" width="600" />
+</p>
+
 A practical playground for graph-augmented large language models, combining the power of Neo4j with LLMs and knowledge graphs.  
 Built by Anu & Roshni’s photography-inspired coder. (Okay, me — Anul Sasidharan.)
 
-### Project Architecture
+### Detailed Project Architecture
 
 ![alt text](image-1.png)
 
