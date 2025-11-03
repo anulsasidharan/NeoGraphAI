@@ -3,6 +3,10 @@
 A practical playground for graph-augmented large language models, combining the power of Neo4j with LLMs and knowledge graphs.  
 Built by Anu & Roshni’s photography-inspired coder. (Okay, me — Anul Sasidharan.)
 
+### Project Architecture
+
+![alt text](image-1.png)
+
 ---
 
 ### 🎯 Why this project?
