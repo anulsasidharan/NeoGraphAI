@@ -1,2 +1,4 @@
-openai
+openai==0.28
 neo4j
+wikipedia-api
+python-dotenv
